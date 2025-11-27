@@ -2,7 +2,7 @@
 // VARIABLES GLOBALES
 // ========================================
 let currentTheme = localStorage.getItem("theme") || "light";
-const GEMINI_API_KEY = "clé"; // À remplacer par votre clé API
+const GEMINI_API_KEY = "clé API Gemini"; // À remplacer par votre clé API
 
 // ========================================
 // INITIALISATION AU CHARGEMENT
